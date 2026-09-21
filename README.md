@@ -220,7 +220,7 @@ working_with:
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gxammad&bg_color=0D1117&color=FF3131&line=FF3131&point=FFFFFF&area=true&hide_border=false&border_color=21262D" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gxammad&theme=github-compact&bg_color=0D1117&color=FFFFFF&line=FF3131&point=FF3131&area=true&area_color=FF3131&hide_border=false&border_color=FF3131" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -238,6 +238,10 @@ working_with:
 ## `10` — GET IN TOUCH
 
 <div align="center">
+
+<img src="./art/social-media-dark.png" alt="A.PRO — Software Engineer · Data · AI" width="100%">
+
+<br><br>
 
 <a href="https://apro-gamma.vercel.app/">
   <img src="https://img.shields.io/badge/A.PRO-FF3131?style=for-the-badge&logoColor=white" alt="A.PRO" />
