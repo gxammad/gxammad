@@ -5,20 +5,29 @@
 <br><br>
 
 <a href="https://apro-gamma.vercel.app/">
-  <img src="https://img.shields.io/badge/A.PRO-FF3131?style=for-the-badge&logoColor=white" alt="A.PRO">
+  <img src="https://img.shields.io/badge/A.PRO-FF3131?style=for-the-badge&logoColor=white" alt="A.PRO Website" />
 </a>
 <a href="https://www.linkedin.com/in/ammad-waqas">
-  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/gxammad">
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:awfivesolutions@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
+# Hey there, I'm Ammad Waqas 👋
+
 ### Software Engineer · Data · AI
 
-**I build software that turns real-world problems into useful systems.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FF3131&center=true&vCenter=true&width=550&lines=Building+scalable+software+and+data+systems;Turning+messy+workflows+into+production+tools;Full+Stack+%7C+ETL+Pipelines+%7C+AI+Integration" alt="Typing SVG" />
+</a>
+
+<br><br>
 
 `Next.js` · `Python` · `SQL` · `PostgreSQL` · `Supabase` · `REST APIs` · `AI`
 
@@ -26,293 +35,161 @@
 
 ---
 
-# `01` — ABOUT
+## `01` — ABOUT ME
 
-I'm **Ammad Waqas**, a Software Engineer focused on building production-ready software, data systems, backend services, dashboards and AI-powered applications.
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-My work sits between:
+I'm **Ammad Waqas**, a Software Engineer focused on designing and building production-grade web applications, robust backend services, scalable data pipelines, and practical AI-powered systems.
 
-SOFTWARE ENGINEERING
-        ↓
-DATA & AUTOMATION
-        ↓
-AI-POWERED SYSTEMS
-I enjoy taking complex requirements, messy data and real-world workflows and turning them into systems that are reliable, understandable and useful.
+My work sits at the intersection of:
+* ⚡ **Software Engineering** — Scalable architectures, reliable APIs, modern responsive interfaces.
+* 📊 **Data Engineering** — Production ETL, database normalization, data validation, and real-time dashboards.
+* 🧠 **Artificial Intelligence** — Applied LLMs, automated speech-to-text processing (Whisper), and intelligent task pipelines.
 
-Currently exploring deeper into backend engineering, data engineering and practical AI.
+I enjoy taking complex requirements, messy data, or manual operational processes and converting them into reliable, useful digital platforms.
 
-02 — WHAT I BUILD
-<table> <tr> <td width="33%" valign="top">
-⚡ SOFTWARE
+</td>
+<td width="35%" align="center" valign="middle">
 
-Production web applications, backend services, APIs, authentication, business workflows and dashboards.
+```text
+┌────────────────────────┐
+│  SOFTWARE ENGINEERING  │
+└───────────┬────────────┘
+            ↓
+┌────────────────────────┐
+│   DATA & AUTOMATION    │
+└───────────┬────────────┘
+            ↓
+┌────────────────────────┐
+│   AI-POWERED SYSTEMS   │
+└────────────────────────┘
+```
 
-Focus
+</td>
+</tr>
+</table>
 
-Next.js
-React
-Node.js
-Python
-REST APIs
+---
 
-</td> <td width="33%" valign="top">
-📊 DATA
+## `02` — WHAT I BUILD
 
-ETL pipelines, data processing, validation, reporting, analytics and large-scale data workflows.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Focus
+### ⚡ Software
+Scalable web applications, backend services, secure authentication, role-based workflows, and production systems.
 
-Python
-SQL
-PostgreSQL
-Pandas
-SurveyCTO
+**Focus**  
+`Next.js` · `React` · `Node.js` · `Python` · `REST APIs`
 
-</td> <td width="33%" valign="top">
-🧠 AI
+</td>
+<td width="33%" valign="top">
 
-Practical AI applications, transcription, intelligent automation and AI-assisted software.
+### 📊 Data
+Automated ETL pipelines, data validation, warehousing, transactional database schemas, and analytics dashboards.
 
-Focus
+**Focus**  
+`Python` · `SQL` · `PostgreSQL` · `Pandas` · `Cloudflare R2`
 
-Python
-Whisper
-AI APIs
-Automation
+</td>
+<td width="33%" valign="top">
 
-</td> </tr> </table>
-03 — SELECTED WORK
-🏢 DFLT Platform
-Production Data & Analytics Platform
+### 🧠 AI & Automation
+Practical machine learning integrations, audio-to-text transcription, summarization, and workflow automation.
 
-A production data platform developed for an EU-funded digital transformation project supported by GIZ.
+**Focus**  
+`Whisper AI` · `AI APIs` · `Python` · `Automation`
 
-Worked across:
+</td>
+</tr>
+</table>
 
-Data acquisition through SurveyCTO
-Python ETL pipelines
-SQL-based data processing
-Automated validation
-Scheduled data synchronization
-KPI dashboards
-Reporting and monitoring
-Backend APIs and scheduled jobs
-Linux production deployment
+---
 
-Stack
+## `03` — SELECTED WORK
 
-Python SQL SurveyCTO REST APIs Linux Dashboard
+| System | Overview | Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **DFLT Platform** | Enterprise data platform, validation, and analytics dashboards for large-scale digital initiatives. | `Python` `SQL` `SurveyCTO` `APIs` `Linux` | [Live](https://apro-gamma.vercel.app/) |
+| **Tech & Solutions** | Full-scale e-commerce platform with catalog pipelines, payments, and admin controls. | `Next.js` `Supabase` `PostgreSQL` `Stripe` | [Live](https://apro-gamma.vercel.app/) |
+| **EaseYT** | AI-driven YouTube media transcription, translation, and automated summarization engine. | `MERN` `Whisper AI` `Google APIs` | [Code](https://github.com/gxammad) |
+| **Hirewise** | Modern candidate tracking and recruiter workflow management platform. | `Next.js` `Supabase` `PostgreSQL` `Tailwind` | [Code](https://github.com/gxammad) |
+| **Meridian** | High-performance web application focused on structured digital business workflows. | `Next.js` `React` `Supabase` | [Code](https://github.com/gxammad) |
+| **SSPA Verification** | Secure beneficiary and CNIC verification platform with instant lookup services. | `Next.js` `REST APIs` `Vercel` | [Code](https://github.com/gxammad) |
+| **Devcore** | Modern tech product landing and presentation platform with minimalist UI. | `Next.js` `React` `Tailwind` | [Code](https://github.com/gxammad) |
+| **Relief PK** | Public relief donation tracking and emergency mobilization web platform. | `React` `Tailwind` `Vercel` | [Code](https://github.com/gxammad) |
 
-→ Live Platform
+---
 
-🛒 Tech & Solutions
-Production E-commerce Platform · UK
+## `04` — ENGINEERING STACK
 
-A production e-commerce platform built for a UK technology business.
-
-Worked across:
-
-Product and inventory workflows
-Authentication
-Role-based access
-PostgreSQL data layer
-Payment integration
-Transactional email
-Cloud object storage
-Administrative workflows
-Reporting
-
-Stack
-
-Next.js React Supabase PostgreSQL Stripe Cloudflare R2 Resend
-
-→ Live Website
-
-🎬 EaseYT
-AI-Powered YouTube Processing Platform
-
-A MERN application designed around YouTube transcription, translation, summarization and document generation.
-
-Stack
-
-MongoDB Express React Node.js Whisper Google APIs
-
-→ Live
-→ Source Code
-
-👥 Hirewise
-Recruitment Management Platform
-
-A recruitment-focused application designed around candidates, recruiters and structured hiring workflows.
-
-Stack
-
-Next.js Supabase PostgreSQL Tailwind
-
-→ Live
-→ Source Code
-
-🧭 Meridian
-Modern Digital Application
-
-A modern web application focused on structured digital workflows and a clean user experience.
-
-Stack
-
-Next.js React Supabase
-
-→ Live
-→ Source Code
-
-🪪 SSPA Verification
-CNIC / Beneficiary Verification Platform
-
-A web application built around verification workflows and beneficiary-related data.
-
-Stack
-
-Next.js APIs Vercel
-
-→ Live
-→ Source Code
-
-💻 Devcore
-Modern Software Product
-
-A modern web application focused on software/product presentation and digital workflows.
-
-Stack
-
-Next.js React Tailwind
-
-→ Live
-→ Source Code
-
-🌊 Relief PK
-Flood Relief Donation Platform
-
-A web platform created around flood relief fundraising and donations.
-
-→ Live
-→ Source Code
-
-04 — TECHNOLOGY
 <div align="center">
-LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages">
 
-<br><br>
+**LANGUAGES**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages" />
+</p>
 
-FRONTEND
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs" alt="Frontend Technologies">
+**FRONTEND ECOSYSTEM**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs" alt="Frontend" />
+</p>
 
-<br><br>
+**BACKEND, DATABASES & CLOUD**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mongodb,mysql,cloudflare,docker,aws,vercel" alt="Backend & Cloud" />
+</p>
 
-BACKEND & DATA
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mongodb,mysql" alt="Backend and Data Technologies">
+**TOOLS & WORKFLOWS**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Tools" />
+</p>
 
-<br><br>
+</div>
 
-CLOUD & DEVOPS
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,vercel,git,github" alt="Cloud and DevOps"> </div>
-05 — ENGINEERING FOCUS
-                    SOFTWARE
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-       Backend       Frontend      APIs
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                     DATA
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-         ETL          SQL        Analytics
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                       AI
-                       │
-              Automation & Tools
-Core Areas
+---
 
-Backend Engineering
+## `05` — ARCHITECTURAL MINDSET
 
-Data Engineering
+I prioritize architectural clarity over framework hype:
 
-Web Applications
+```text
+┌──────────────┐      ┌──────────────┐      ┌──────────────┐
+│   PROBLEM    │ ───> │  UNDERSTAND  │ ───> │    DESIGN    │
+└──────────────┘      └──────────────┘      └──────────────┘
+                                                    │
+                                                    ↓
+┌──────────────┐      ┌──────────────┐      ┌──────────────┐
+│   IMPROVE    │ <─── │   MEASURE    │ <─── │    BUILD     │
+└──────────────┘      └──────────────┘      └──────────────┘
+```
 
-ETL & Data Processing
+> *"Build less noise. Engineer more value."*
 
-REST APIs
+---
 
-Dashboards & Reporting
+## `06` — EXPERIENCE & TRACK RECORD
 
-AI Integration
+* **Software Engineer — Data & Analytics** · *SDPI (DFLT Project)*
+  * Architected and managed production data pipelines, automated sync jobs, API layers, and monitoring dashboards.
+  * `Python` · `SQL` · `SurveyCTO` · `ETL` · `Linux`
 
-Automation
+* **Full Stack Software Engineer** · *Tech & Solutions (UK)*
+  * Built complete e-commerce infrastructure including catalog management, secure checkout, R2 storage, and transactional emails.
+  * `Next.js` · `React` · `Supabase` · `PostgreSQL` · `Stripe` · `Cloudflare R2`
 
-Cloud Deployment
+* **Data Analyst** · *ARCH Technologies*
+  * Designed data processing routines, assisted predictive modeling tasks, and built automated reporting scripts.
+  * `Python` · `Machine Learning` · `Pandas` · `Analytics`
 
-06 — HOW I APPROACH PROBLEMS
+---
 
-I don't start with a framework.
+## `07` — CURRENT FOCUS
 
-I start with the problem.
-
-┌──────────────┐
-│    PROBLEM   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│  UNDERSTAND  │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    DESIGN    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│     BUILD    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    MEASURE   │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    IMPROVE   │
-└──────────────┘
-
-Build less noise. Build more value.
-
-07 — EXPERIENCE
-Software Engineer — Data & Analytics
-
-SDPI · DFLT Project
-
-Worked on production data infrastructure, ETL workflows, APIs, dashboards, validation, monitoring and reporting for a large-scale digital transformation project.
-
-Python SQL SurveyCTO ETL REST APIs Linux
-
-Full Stack Software Engineer
-
-Tech & Solutions · UK
-
-Worked on a production e-commerce platform covering authentication, authorization, database architecture, payments, cloud storage, email and administrative workflows.
-
-Next.js React Supabase PostgreSQL Stripe Cloudflare R2
-
-Data Analyst
-
-ARCH Technologies
-
-Worked on machine learning, predictive analytics, data processing and Python-based automation.
-
-Python Machine Learning Data Analysis
-
-08 — CURRENTLY
+```yaml
 building:
   - A.PRO
   - production web applications
@@ -331,39 +208,68 @@ working_with:
   - Supabase
   - REST APIs
   - Cloud Platforms
+```
 
-interested_in:
-  - Software Engineering
-  - Backend Engineering
-  - Data Engineering
-  - AI
-  - Real-world technical problems
-09 — EDUCATION
-BS Software Engineering
+---
 
-University of Gujrat
+## `08` — RECENT METRICS & ACTIVITY
 
-2021 — 2025
+<div align="center">
 
-10 — CREDENTIALS
-<div align="center"> <a href="https://www.credly.com/users/ammad-waqas"> <img src="https://img.shields.io/badge/Credly-View%20Credentials-111827?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"> </a> <a href="https://coursera.org/share/94753888e09183f0c4cd5a5eefc97950"> <img src="https://img.shields.io/badge/Coursera-View%20Verification-111827?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"> </a> </div>
-11 — CONNECT
-<div align="center"> <a href="https://apro-gamma.vercel.app/"> <img src="https://img.shields.io/badge/A.PRO-FF3131?style=for-the-badge" alt="A.PRO"> </a> <a href="https://www.linkedin.com/in/ammad-waqas"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/gxammad"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.instagram.com/ammad_147"> <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="mailto:awfivesolutions@gmail.com"> <img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </div>
-<div align="center"> <br>
-HAVE A PROBLEM WORTH SOLVING?
-LET'S BUILD SOMETHING USEFUL.
-<br> <a href="https://apro-gamma.vercel.app/"> <img src="https://img.shields.io/badge/VISIT%20A.PRO-FF3131?style=for-the-badge" alt="Visit A.PRO"> </a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gxammad&theme=dark&background=0D1117&border=FF3131&stroke=FF3131&ring=FF3131&fire=FF3131&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF3131&sideLabels=9CA3AF" alt="GitHub Streak" />
 
 <br><br>
 
-<sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gxammad&bg_color=0D1117&color=FF3131&line=FF3131&point=FFFFFF&area=true&hide_border=false&border_color=21262D" width="95%" alt="Activity Graph" />
 
-A.PRO — Ammad Professional
+</div>
 
-Software Engineering · Data · AI
+---
 
-</sub>
+## `09` — EDUCATION & CREDENTIALS
+
+* **BS Software Engineering** · *University of Gujrat* (2021 — 2025)
+* **Professional Credentials**:
+  * [Credly Public Profile](https://www.credly.com/users/ammad-waqas)
+  * [Coursera Verified Certificates](https://coursera.org/share/94753888e09183f0c4cd5a5eefc97950)
+
+---
+
+## `10` — GET IN TOUCH
+
+<div align="center">
+
+<a href="https://apro-gamma.vercel.app/">
+  <img src="https://img.shields.io/badge/A.PRO-FF3131?style=for-the-badge&logoColor=white" alt="A.PRO" />
+</a>
+<a href="https://www.linkedin.com/in/ammad-waqas">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/gxammad">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/ammad_147">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:awfivesolutions@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF3131?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <br><br>
 
-</div> 
+### Have a problem worth solving?
+**Let's build something useful.**
+
+<br>
+
+<a href="https://apro-gamma.vercel.app/">
+  <img src="https://img.shields.io/badge/VISIT%20A.PRO-FF3131?style=for-the-badge" alt="Visit A.PRO" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=100&section=footer" width="100%" alt="Footer Wave"/>
+
+<sub><b>A.PRO — Ammad Professional</b><br>Software Engineering · Data · AI</sub>
+
+</div>
